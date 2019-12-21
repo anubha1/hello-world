@@ -7,15 +7,16 @@ I am following the GitHub Guides tutorial that provides an introduction to GitHu
 # Basic Writing and Formatting Syntax with Markdwon
 Text can be made **bold**, *italicized*, or ~~crossed out~~~~. Text can also be quoted like this quote:
 >This is my quote!
+
 Inline links can also be added. For example, here's [Google](https://www.google.com).
 
 Now, here's a list:
 - fruit
- - apple
- - banana
+  - apple
+  - banana
 - color
- - red
- - yellow
+  - red
+  - yellow
  
 Here's a checklist:
 [x] stylized text
