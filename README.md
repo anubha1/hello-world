@@ -19,11 +19,10 @@ Now, here's a list:
   - yellow
  
 Here's a checklist:
-[x] stylized text
-[x] quotes
-[x] hyperlinks
-[x] lists
-[x] checklists
-[ ] emojis
-[ ] section links
+- [x] stylized text
+- [x] quotes
+- [x] hyperlinks
+- [x] lists
+- [ ] emojis
+- [ ] section links
 
